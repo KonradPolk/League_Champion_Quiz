@@ -14,9 +14,6 @@ class Program
 {
     public static void Main()
     {
-        //Oh, the horrors that lie within this code. Tis a labyrinth of confusion and despair, a true nightmare to behold. The very sight of it doth send shivers down one's spine, and the mere thought of deciphering its meaning doth make the bravest of souls tremble with fear. Beware, for within these lines of code lurk demons of logic and ghouls of syntax, ready to torment the unwary coder. Truly, this code is a portal to a realm of terror and madness, and it is best to not gaze upon its horrors.
-
-        //just declarin'
 
         //these bools will tell us when a user has written valid input and therefore wouldnt need to ask them for it anymore. 
         bool inmanaloop = true;
